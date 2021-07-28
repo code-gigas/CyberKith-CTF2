@@ -1,3 +1,5 @@
 aHR0cHM6Ly9lYXN5dXBsb2FkLmlvL2VkcXR2YQ==
 
 use exiftool
+if you get this type of code "++---/++" codes 
+its nameis  brainfuck |||  decode it
